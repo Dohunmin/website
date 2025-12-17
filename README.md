@@ -148,21 +148,50 @@ Mar 2019 – Feb 2021
 
 <strong>TourGenie</strong><br>
 Formally Verified Agentic Workflow for Personalized Travel Planning (Sep 2025 – Present)
-- Developing an agentic AI-based travel planning system
-- Reviewing benchmark datasets (TravelPlanner, TripCraft)
-- Surveying recent agentic AI literature to define evaluation criteria
+- Developing an Agentic AI travel-planning workflow and reviewing benchmark datasets (TravelPlanner, TripCraft)
+- Surveying recent Agentic AI literature to define evaluation criteria and shape a unified workflow framework
 
 <br>
 
 <strong>Job Matching Platform Feature Proposal (KOSME)</strong> (Aug 2025 – Oct 2025)
 - Led full UX process including user research, IA, prototyping, and usability testing
-- Designed transparent recommendation logic and apply-tracking tools
+- Designed transparent recommendation logic and apply-tracking tools based on qualitative interviews and JTBD analysis
 
 <br>
 
-<strong>Generative Engine Optimization (GEO), Maeil Business Newspaper</strong> (May 2025 – Oct 2025)
-- Analyzed AI citation behavior via prompt-based audits and LLM logs
-- Studied content and metadata factors affecting AI-generated references
+<strong>Generative Engine Optimization (GEO), Maeil Business Newspaper</strong> (May 2025 – Present)
+- Leading a project to enhance article structure for increased citation and visibility in GenAI models (GPT-4o)
+- Analyzing AI citation behavior via prompt-based audits and LLM interaction logs
+
+<br>
+
+<strong>Special Purpose Tourism Analysis, Korea Tourism Organization (KTO)</strong> (Jan 2025 – Jul 2025)
+- Segmented tourist types (medical, influencer, etc.) using Social Network Analysis (SNA)
+- Analyzed roaming-based behavioral patterns to inform patient-specific design strategy
+
+<br>
+
+<strong>Industry-Academia Project – Home Appliance Robot “Ballie”, Samsung Electronics</strong> (Mar 2025 – Jun 2025)
+- Developed AI home robot scenarios (observe–record–suggest) for solo-living MZ generation
+- Created value-driven personas and service features including emotion check-ins and wellness reminders
+
+<br>
+
+<strong>UX Project – Inpatient Recovery Support Service, Samsung Medical Center</strong> (Sep 2024 – Dec 2024)
+- Designed a mobile app (Haeboa) for personalized micro-task rehabilitation and wishlist-based goal tracking
+- Developed IA, wireframes, and UI/UX prototypes for medical stakeholders
+
+<br>
+
+<strong>Panic Attack Diagnosis Using Wearable ECG Monitoring, SKKU</strong> (Sep 2024 – Jan 2025)
+- Formulated custom fusion formula combining wearable ECG signals with self-reported panic scores (PDSS, APPQ)
+- Designed mobile app UI/UX prototype to visualize personalized risk scores in real time
+
+<br>
+
+<strong>AI-Based Earthquake Damage Prediction, KOICA</strong> (Mar 2024 – Jul 2025)
+- Proposed an AI-driven disaster response system using Kyrgyzstan's seismic data to support early warning
+- Outlined a 5-year implementation plan including data collection infrastructure and policy linkage
 
 </details>
 
