@@ -3,15 +3,17 @@
      GitHub Profile / Website
      ========================= -->
 
-<div align="center" style="width:160px; margin:auto; border-radius:14%; overflow:hidden;">
+<div align="center">
+
+<div style="width:160px; margin:auto;">
   <img src="assets/profile.jpg" alt="Hunmin Do profile photo" width="160" />
 </div>
 
 # Hunmin Do
-**Undergraduate Researcher · HCI / UX / Agentic AI**  
+**M.Sc. student in DXLab · HCI / UX / Agentic AI**  
 Sungkyunkwan University (SKKU)
 
-📍 Seoul / Suwon, South Korea  
+📍 Seoul, South Korea  
 
 <p>
   <a href="mailto:gnsals9262@gmail.com">Email</a> •
@@ -24,7 +26,7 @@ Sungkyunkwan University (SKKU)
 ---
 
 ## About
-Hi 🙌🏻 I'm an M.Sc. student in the Department of Immersive Media Engineering at Sungkyunkwan University and a member of [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/dxlab/members/eunil-park-ph-d?authuser=0).  
+Hi 🙌🏻 I'm a M.Sc. student in the Department of Immersive Media Engineering at Sungkyunkwan University and a member of [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/dxlab/members/eunil-park-ph-d?authuser=0).  
 
 I have a strong interest in **Human-Computer Interaction (HCI)**, **User Experience (UX)**, and **Agentic AI systems**.  
 My work focuses on AI-driven interaction systems and data-informed UX research, with applications in **digital health**, **Human–Robot Interaction**, and **intelligent agents**.
@@ -37,7 +39,8 @@ My work focuses on AI-driven interaction systems and data-informed UX research, 
 
 ---
 
-## Research Experience
+<details>
+<summary><strong>Research Experience</strong></summary>
 
 ### Data eXperience Lab (DXLab), Sungkyunkwan University
 **M.Sc. Student Researcher**  
@@ -76,10 +79,13 @@ Jun 2024 – Aug 2024
   - *Design Lab on Vibration and Dynamic Systems*  
   - *Mobile System Control*  
 
+</details>
 
 ---
 
-## Education
+<details>
+<summary><strong>Education</strong></summary>
+
 ### Sungkyunkwan University (SKKU)
 **B.S. in Mechanical Engineering**  
 GPA: **4.04 / 4.5** (Major GPA: 3.98 / 4.5)  
@@ -90,9 +96,13 @@ Mar 2021 – Expected Aug 2026
 GPA: 3.04 / 4.5  
 Mar 2019 – Feb 2021
 
+</details>
+
 ---
 
-## Publications
+<details>
+<summary><strong>Publications</strong></summary>
+
 ### International Journal
 - **Oh H**, **Do H**, et al.  
   *Panic Attack Prediction for Patients With Panic Disorder via Machine Learning and Wearable ECG Monitoring.*  
@@ -108,17 +118,25 @@ Mar 2019 – Feb 2021
   *The Impact of AI Agents’ Use of Address/Reference Terms on Perceived Anthropomorphism and User Experience.*  
   Journal of Digital Contents Society, 2025.
 
+</details>
+
 ---
 
-## Conferences
+<details>
+<summary><strong>Conferences</strong></summary>
+
 - **[Accepted | Full Paper]**  
   Lee, Y., **Do, H.**  
   *Design for Deletion: Enhancing Cognitive Fluency in Digital Hoarding Contexts.*  
   **HCI International 2026**, Springer.
 
+</details>
+
 ---
 
-## Projects
+<details>
+<summary><strong>Projects</strong></summary>
+
 ### TourGenie  
 **Formally Verified Agentic Workflow for Personalized Travel Planning**  
 Sep 2025 – Present  
@@ -133,7 +151,7 @@ Aug 2025 – Oct 2025
 - Designed transparent recommendation logic and apply-tracking tools  
 
 ### Generative Engine Optimization (GEO) – Maeil Business Newspaper
-May 2025 – Present  
+May 2025 – Oct 2025  
 - Leading industry-academia collaboration to improve AI citation visibility  
 - Analyzing AI citation behavior via prompt-based audits and LLM logs  
 - Studying content & metadata factors affecting AI-generated references  
@@ -168,25 +186,36 @@ Mar 2024 – Jul 2025
 - Designed scalable data & model infrastructure  
 - Outlined long-term implementation roadmap  
 
+</details>
+
 ---
 
+<details>
+<summary><strong>Patents</strong></summary>
 
-## Patents
 - **APPARATUS FOR CLEANING IRON CHIPS**  
   KR Patent Application No. 2018-0006933
 
+</details>
+
 ---
 
-## Awards & Scholarships
+<details>
+<summary><strong>Awards & Scholarships</strong></summary>
+
 - **DB GAPS Investment Competition – Excellence Award**  
   (Top 3 / 840 teams), 2025  
 - Peer Review Award, Sungkyunkwan University, 2025  
 - Green Scholarship, Korea Forest Welfare Institute, 2024  
 - Scholarship Recipient, Buan-gun Forestry Cooperative, 2024  
 
+</details>
+
 ---
 
-## Skills
+<details>
+<summary><strong>Skills</strong></summary>
+
 **Tools & Software**  
 Figma, Power BI, Python, SPSS, Gephi, Inventor, PowerPoint, Excel  
 
@@ -201,7 +230,12 @@ User Interview Coding, Personas, Journey Mapping, Service Blueprinting, UI/UX Wi
 - English (Professional working proficiency)  
 - Japanese (Basic)
 
+</details>
+
 ---
+
+<details>
+<summary><strong>CV</strong></summary>
 
 <div align="center">
 
@@ -210,3 +244,4 @@ User Interview Coding, Personas, Journey Mapping, Service Blueprinting, UI/UX Wi
 
 </div>
 
+</details>
