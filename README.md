@@ -3,9 +3,9 @@
      GitHub Profile / Website
      ========================= -->
 
-<div align="center">
-
-<img src="assets/profile.jpg" alt="Hunmin Do profile photo" width="160" style="border-radius: 50%;" />
+<div align="center" style="width:160px; margin:auto; border-radius:14%; overflow:hidden;">
+  <img src="assets/profile.jpg" alt="Hunmin Do profile photo" width="160" />
+</div>
 
 # Hunmin Do
 **Undergraduate Researcher · HCI / UX / Agentic AI**  
