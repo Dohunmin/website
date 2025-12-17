@@ -35,6 +35,24 @@ My work spans service design, AI-driven interaction systems, and data-informed U
 
 ---
 
+## Research & Work Experience
+### Smardi Lab, Sungkyunkwan University
+**Undergraduate Student Researcher**  
+Dec 2024 – Oct 2025  
+- Assisted service design and UX research under Prof. Jaeboong Choi  
+- Built data-driven digital personas and coded user interviews  
+- Conducted statistical analysis using SPSS  
+- Research domains: Service Design Process, UX, HCI  
+
+### Rise Lab, Sungkyunkwan University
+**Undergraduate Research Program Researcher**  
+Jun 2024 – Aug 2024  
+- Conducted research on obstacle prediction using Kalman Filter (KF) and EKF  
+- Implemented sensor fusion and probabilistic motion modeling  
+- Used CARLA autonomous driving simulator with ROS2 (Ubuntu)  
+
+---
+
 ## Education
 ### Sungkyunkwan University (SKKU)
 **B.S. in Mechanical Engineering**  
@@ -71,24 +89,6 @@ Mar 2019 – Feb 2021
   Lee, Y., **Do, H.**  
   *Design for Deletion: Enhancing Cognitive Fluency in Digital Hoarding Contexts.*  
   **HCI International 2026**, Springer.
-
----
-
-## Research & Work Experience
-### Smardi Lab, Sungkyunkwan University
-**Undergraduate Student Researcher**  
-Dec 2024 – Oct 2025  
-- Assisted service design and UX research under Prof. Jaeboong Choi  
-- Built data-driven digital personas and coded user interviews  
-- Conducted statistical analysis using SPSS  
-- Research domains: Service Design Process, UX, HCI  
-
-### Rise Lab, Sungkyunkwan University
-**Undergraduate Research Program Researcher**  
-Jun 2024 – Aug 2024  
-- Conducted research on obstacle prediction using Kalman Filter (KF) and EKF  
-- Implemented sensor fusion and probabilistic motion modeling  
-- Used CARLA autonomous driving simulator with ROS2 (Ubuntu)  
 
 ---
 
