@@ -11,10 +11,8 @@
 
 # Hunmin Do
 **M.Sc. student in [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0)** 
-
 **Research Interests: Human-Computer/Robot Interaction, User eXperience, Service Design, Digital HealthI**  
 Sungkyunkwan University (SKKU)
-
 📍 Seoul, South Korea  
 
 <p>
