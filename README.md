@@ -16,7 +16,7 @@ Sungkyunkwan University (SKKU)
 <p>
   <a href="mailto:gnsals9262@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/hunmin-do-5b7bb3338">LinkedIn</a> •
-  <a href="https://github.com/YOUR_GITHUB">GitHub</a>
+  <a href="https://github.com/Dohunmin">GitHub</a>
 </p>
 
 </div>
@@ -24,7 +24,7 @@ Sungkyunkwan University (SKKU)
 ---
 
 ## About
-Hi 🙌🏻 I'm an M.Sc. student in the Department of Applied Artificial Intelligence at Sungkyunkwan University and a member of [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/dxlab/members/eunil-park-ph-d?authuser=0).  
+Hi 🙌🏻 I'm an M.Sc. student in the Department of Immersive Media Engineering at Sungkyunkwan University and a member of [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/dxlab/members/eunil-park-ph-d?authuser=0).  
 
 I have a strong interest in **Human-Computer Interaction (HCI)**, **User Experience (UX)**, and **Agentic AI systems**.  
 My work focuses on AI-driven interaction systems and data-informed UX research, with applications in **digital health**, **Human–Robot Interaction**, and **intelligent agents**.
@@ -37,25 +37,45 @@ My work focuses on AI-driven interaction systems and data-informed UX research, 
 
 ---
 
-## Research & Experience
+## Research Experience
+
 ### Data eXperience Lab (DXLab), Sungkyunkwan University
 **M.Sc. Student Researcher**  
-Jan 2026 – Present
+Jan 2026 – Present  
 
-### Smardi Lab, Sungkyunkwan University
+---
+
+### Smardi Lab, Sungkyunkwan University  
+School of Mechanical Engineering  
 **Undergraduate Student Researcher**  
+Suwon, South Korea  
 Dec 2024 – Oct 2025  
-- Assisted service design and UX research under Prof. Jaeboong Choi  
-- Built data-driven digital personas and coded user interviews  
-- Conducted statistical analysis using SPSS  
-- Research domains: Service Design Process, UX, HCI  
 
-### Rise Lab, Sungkyunkwan University
+- Assisted in service design research under the supervision of **Prof. Jaeboong Choi**, with a focus on **data-driven digital persona development**, **user interview coding**, and **statistical analysis using SPSS**.  
+- Research domains include **Service Design Process**, **User Experience**, and **Human-Computer Interaction (HCI)**.  
+- Completed relevant coursework:  
+  - *A New Human, Phono Sapiens*  
+  - *Experience Design*  
+  - *Product-Service Convergence Design*  
+  - *User Experience Capstone Design*  
+  - *Introduction to Artificial Intelligence*  
+  - *Convergence Capstone Experience Design*  
+
+---
+
+### Rise Lab, Sungkyunkwan University  
+School of Mechanical Engineering  
 **Undergraduate Research Program Researcher**  
+Suwon, South Korea  
 Jun 2024 – Aug 2024  
-- Conducted research on obstacle prediction using Kalman Filter (KF) and EKF  
-- Implemented sensor fusion and probabilistic motion modeling  
-- Used CARLA autonomous driving simulator with ROS2 (Ubuntu)  
+
+- Conducted research on **obstacle prediction algorithms** under the supervision of **Prof. Hyungpil Moon**, utilizing **Kalman Filter (KF)** and **Extended Kalman Filter (EKF)**.  
+- Implemented real-time obstacle detection and future position estimation through **sensor fusion** and **probabilistic motion modeling**.  
+- Leveraged the **CARLA autonomous driving simulator** with **ROS2 on Ubuntu** for simulation-based validation.  
+- Completed relevant coursework:  
+  - *Design Lab on Vibration and Dynamic Systems*  
+  - *Mobile System Control*  
+
 
 ---
 
