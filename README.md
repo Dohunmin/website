@@ -180,7 +180,7 @@ User Interview Coding, Personas, Journey Mapping, Service Blueprinting, UI/UX Wi
 <div align="center">
 
 ### 📄 CV
-[Download CV (PDF)](assets/Hunmin Do. CV.pdf)
+[Download CV (PDF)](assets/Hunmin_Do_CV.pdf)
 
 </div>
 
