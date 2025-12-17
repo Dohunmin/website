@@ -24,8 +24,10 @@ Sungkyunkwan University (SKKU)
 ---
 
 ## About
-I am an undergraduate researcher at Sungkyunkwan University with a strong interest in **Human-Computer Interaction (HCI)**, **User Experience (UX)**, and **Agentic AI systems**.  
-My work spans service design, AI-driven interaction systems, and data-informed UX research, with applications in **digital health**, **tourism**, and **intelligent agents**.
+Hi 🙌🏻 I'm an M.Sc. student in the Department of Applied Artificial Intelligence at Sungkyunkwan University and a member of [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/dxlab/members/eunil-park-ph-d?authuser=0).  
+
+I have a strong interest in **Human-Computer Interaction (HCI)**, **User Experience (UX)**, and **Agentic AI systems**.  
+My work focuses on AI-driven interaction systems and data-informed UX research, with applications in **digital health**, **Human–Robot Interaction**, and **intelligent agents**.
 
 **Research Interests**
 - Human-Computer / Human-Robot Interaction  
@@ -35,7 +37,11 @@ My work spans service design, AI-driven interaction systems, and data-informed U
 
 ---
 
-## Research & Work Experience
+## Research & Experience
+### Data eXperience Lab (DXLab), Sungkyunkwan University
+**M.Sc. Student Researcher**  
+Jan 2026 – Present
+
 ### Smardi Lab, Sungkyunkwan University
 **Undergraduate Student Researcher**  
 Dec 2024 – Oct 2025  
